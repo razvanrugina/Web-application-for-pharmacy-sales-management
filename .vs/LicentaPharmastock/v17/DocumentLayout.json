@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\views\\brands\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\views\\brands\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Data\\Migrations\\20250327170508_productWithBrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LicentaPharmastock\\Data\\Migrations\\20250327170508_productWithBrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\views\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\views\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\models\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\models\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\wwwroot\\images\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\wwwroot\\images\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|e:\\facultate an iii\\lucru pt licenta\\licenta\\licentapharmastock\\licentapharmastock\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040226ED-9784-4575-BB37-25155999D77E}|LicentaPharmastock\\LicentaPharmastock.csproj|solutionrelative:licentapharmastock\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Views\\Products\\Create.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:32:03.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Models\\Product.cs",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Models\\Product.cs",
+              "RelativeToolTip": "LicentaPharmastock\\Models\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:30:36.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:32:15.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LicentaPharmastock\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAIAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-13T19:40:10.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T17:35:00.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Brands\\Index.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Views\\Brands\\Index.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Brands\\Index.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Views\\Brands\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T16:45:36.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:29:31.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Views\\Products\\Details.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwDcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T16:52:05.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "LicentaPharmastock\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wC0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:17:06.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\View.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Views\\View.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\View.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Views\\View.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T17:06:28.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Brands\\Details.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Views\\Brands\\Details.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Brands\\Details.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Views\\Brands\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T17:33:26.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:15:22.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Brands\\Create.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Views\\Brands\\Create.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Brands\\Create.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Views\\Brands\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T17:31:33.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LicentaPharmastock\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4BAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:34:31.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250327170508_productWithBrand.cs",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Data\\Migrations\\20250327170508_productWithBrand.cs",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Data\\Migrations\\20250327170508_productWithBrand.cs",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Data\\Migrations\\20250327170508_productWithBrand.cs",
+              "RelativeToolTip": "LicentaPharmastock\\Data\\Migrations\\20250327170508_productWithBrand.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:05:08.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Models\\Brand.cs",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Models\\Brand.cs",
+              "RelativeToolTip": "LicentaPharmastock\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:57:22.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Controllers\\BrandsController.cs",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "LicentaPharmastock\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:04:43.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LicentaPharmastock\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:02:08.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LicentaPharmastock\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:53:51.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAN8UAAAAAAAAAAAAAPcUAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-26T16:32:24.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "logo.svg",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\logo.svg",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\wwwroot\\images\\logo.svg",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\logo.svg",
+              "RelativeToolTip": "LicentaPharmastock\\wwwroot\\images\\logo.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-26T16:18:32.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:39:12.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Program.cs",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Program.cs",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Program.cs",
+              "RelativeToolTip": "LicentaPharmastock\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAEwCcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:38:08.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "LicentaPharmastock\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:48:17.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Models\\Enums\\ProductType.cs",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Models\\Enums\\ProductType.cs",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Models\\Enums\\ProductType.cs",
+              "RelativeToolTip": "LicentaPharmastock\\Models\\Enums\\ProductType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:04:27.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T19:43:19.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T19:42:37.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LicentaPharmastock\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T19:37:23.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LicentaPharmastock\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LicentaPharmastock\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:56:27.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
