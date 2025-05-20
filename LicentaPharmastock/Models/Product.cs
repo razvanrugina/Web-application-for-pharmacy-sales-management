@@ -24,15 +24,19 @@ namespace LicentaPharmastock.Models
 
         [MaxLength(2000)]
         public string Prospectus { get; set; }
-
+        [Required]
         public string ImagePath { get; set; }
-
+        [Required]
         public List<string> Locations { get; set; }
 
         [Required]
         public DateTime ExpirationDate { get; set; }
-
-
+        [Required]
+        [Display(Name = "Price")]
+        public float price { get; set; }
+        [Required]
+        [Display(Name = "Quantity")]
+        public int quantity { get; set; }
 
         public Product()
         {

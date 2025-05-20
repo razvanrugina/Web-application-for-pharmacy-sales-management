@@ -12,9 +12,9 @@ namespace LicentaPharmastock.Controllers
 {
     public class BrandsController : Controller
     {
-        private readonly ApplicationDbContext _context;
+        private readonly PerUserDbContext _context;
 
-        public BrandsController(ApplicationDbContext context)
+        public BrandsController(PerUserDbContext context)
         {
             _context = context;
         }
@@ -54,7 +54,7 @@ namespace LicentaPharmastock.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name")] Brand brand)
+        public async Task<IActionResult> Create([Bind("Id,name")] Brand brand)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +86,7 @@ namespace LicentaPharmastock.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name")] Brand brand)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,name")] Brand brand)
         {
             if (id != brand.Id)
             {

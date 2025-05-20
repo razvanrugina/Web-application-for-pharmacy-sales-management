@@ -266,3 +266,626 @@ E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmasto
 E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.sourcelink.json
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.ClientModel.dll
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\appsettings.Development.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\appsettings.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.staticwebassets.runtime.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.staticwebassets.endpoints.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.exe
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.deps.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.runtimeconfig.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.pdb
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Azure.Core.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Azure.Identity.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Humanizer.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Build.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\NuGet.Common.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.ClientModel.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.CodeDom.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.csproj.AssemblyReference.cache
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.GeneratedMSBuildEditorConfig.editorconfig
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.AssemblyInfoInputs.cache
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.AssemblyInfo.cs
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.csproj.CoreCompileInputs.cache
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.MvcApplicationPartsAssemblyInfo.cs
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.MvcApplicationPartsAssemblyInfo.cache
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.RazorAssemblyInfo.cache
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.RazorAssemblyInfo.cs
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.sourcelink.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\scopedcss\bundle\LicentaPharmastock.styles.css
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\scopedcss\projectbundle\LicentaPharmastock.bundle.scp.css
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\staticwebassets.build.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\staticwebassets.development.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\staticwebassets\msbuild.LicentaPharmastock.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\staticwebassets\msbuild.LicentaPharmastock.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\staticwebassets\msbuild.build.LicentaPharmastock.props
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LicentaPharmastock.props
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LicentaPharmastock.props
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaP.75894A3C.Up2Date
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\refint\LicentaPharmastock.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.pdb
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.genruntimeconfig.cache
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock\LicentaPharmastock\obj\Debug\net8.0\ref\LicentaPharmastock.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\appsettings.Development.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\appsettings.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.staticwebassets.endpoints.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.staticwebassets.runtime.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.exe
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.deps.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.runtimeconfig.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\LicentaPharmastock.pdb
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Azure.Core.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Azure.Identity.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Humanizer.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Build.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\NuGet.Common.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.ClientModel.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.CodeDom.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.csproj.AssemblyReference.cache
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.GeneratedMSBuildEditorConfig.editorconfig
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.AssemblyInfoInputs.cache
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.AssemblyInfo.cs
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.csproj.CoreCompileInputs.cache
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.MvcApplicationPartsAssemblyInfo.cs
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.MvcApplicationPartsAssemblyInfo.cache
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.RazorAssemblyInfo.cache
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.RazorAssemblyInfo.cs
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.sourcelink.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\scopedcss\bundle\LicentaPharmastock.styles.css
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\scopedcss\projectbundle\LicentaPharmastock.bundle.scp.css
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\staticwebassets.build.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\staticwebassets.development.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\staticwebassets\msbuild.LicentaPharmastock.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\staticwebassets\msbuild.LicentaPharmastock.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\staticwebassets\msbuild.build.LicentaPharmastock.props
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LicentaPharmastock.props
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LicentaPharmastock.props
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaP.75894A3C.Up2Date
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\refint\LicentaPharmastock.dll
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.pdb
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\LicentaPharmastock.genruntimeconfig.cache
+E:\ba-razvan stuff\Facultate An III\Lucru pt Licenta\Licenta\LicentaPharmastock - Multiple Databases attempt\LicentaPharmastock\obj\Debug\net8.0\ref\LicentaPharmastock.dll

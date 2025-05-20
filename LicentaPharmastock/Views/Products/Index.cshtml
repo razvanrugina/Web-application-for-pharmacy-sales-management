@@ -5,14 +5,14 @@
 }
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="custom-btn">Add new product</a>
 </p>
 <table class="table table-bordered"
        data-toggle="table"
        data-search="true"
        data-pagination="true"
        data-show-loading="false"
-       data-sortable="true" ">
+       data-sortable="true">
     <thead>
         <tr>
             <th data-sortable="true">
@@ -24,12 +24,18 @@
             <th data-sortable="true">
                 @Html.DisplayNameFor(model => model.Brand)
             </th>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.quantity)
+            </th>
             <th></th>
         </tr>
     </thead>
     <tbody>
 @foreach (var item in Model) {
-        <tr>
+            <tr data-toggle="false">
             <td>
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
@@ -37,12 +43,17 @@
                 @Html.DisplayFor(modelItem => item.Type)
             </td>
             <td>
-                    @Html.DisplayFor(modelItem => item.Brand.Name)
+                @Html.DisplayFor(modelItem => item.Brand.name)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.quantity)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="custom-btn-small">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="custom-btn-small">Details</a>
             </td>
         </tr>
 }

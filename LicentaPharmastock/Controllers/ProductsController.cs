@@ -7,22 +7,25 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using LicentaPharmastock.Data;
 using LicentaPharmastock.Models;
+using LicentaPharmastock.Services;
 
 namespace LicentaPharmastock.Controllers
 {
     public class ProductsController : Controller
     {
-        private readonly ApplicationDbContext _context;
+        private readonly PerUserDbContextFactory _contextFactory;
 
-        public ProductsController(ApplicationDbContext context)
+        public ProductsController(PerUserDbContextFactory contextFactory)
         {
-            _context = context;
+            _contextFactory = contextFactory;
         }
+
 
         // GET: Products
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Product.Include(p => p.Brand);
+            await using var context = await _contextFactory.CreateAsync();
+            var applicationDbContext = context.Product.Include(p => p.Brand);
             return View(await applicationDbContext.ToListAsync());
         }
 
@@ -34,7 +37,8 @@ namespace LicentaPharmastock.Controllers
                 return NotFound();
             }
 
-            var product = await _context.Product
+            await using var context = await _contextFactory.CreateAsync();
+            var product = await context.Product
                 .Include(p => p.Brand)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (product == null)
@@ -43,14 +47,15 @@ namespace LicentaPharmastock.Controllers
             }
 
 
-            ViewData["BrandId"] = new SelectList(_context.Brand, "Id", "Name");
+            ViewData["BrandId"] = new SelectList(await context.Brand.ToListAsync(), "Id", "name");
             return View(product);
         }
 
         // GET: Products/Create
-        public IActionResult Create()
+        public async Task<IActionResult> Create()
         {
-            ViewData["BrandId"] = new SelectList(_context.Brand, "Id", "Name");
+            await using var context = await _contextFactory.CreateAsync();
+            ViewData["BrandId"] = new SelectList(await context.Brand.ToListAsync(), "Id", "name");
             return View();
         }
 
@@ -59,17 +64,21 @@ namespace LicentaPharmastock.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Description,Type,BrandId,Prospectus,ImagePath,Locations,ExpirationDate")] Product product)
+        public async Task<IActionResult> Create([Bind("Id,Name,Description,Type,BrandId,Prospectus,ImagePath,Locations,ExpirationDate,price,quantity")] Product product)
         {
+            await using var context = await _contextFactory.CreateAsync();
+
             if (ModelState.IsValid)
             {
-                _context.Add(product);
-                await _context.SaveChangesAsync();
+                context.Add(product);
+                await context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["BrandId"] = new SelectList(_context.Brand, "Id", "Id", product.BrandId);
+
+            ViewData["BrandId"] = new SelectList(await context.Brand.ToListAsync(), "Id", "Id", product.BrandId);
             return View(product);
         }
+
 
         // GET: Products/Edit/5
         public async Task<IActionResult> Edit(int? id)
@@ -79,37 +88,43 @@ namespace LicentaPharmastock.Controllers
                 return NotFound();
             }
 
-            var product = await _context.Product.FindAsync(id);
+            await using var context = await _contextFactory.CreateAsync();
+
+            var product = await context.Product.FindAsync(id);
             if (product == null)
             {
                 return NotFound();
             }
-            ViewData["BrandId"] = new SelectList(_context.Brand, "Id", "Name", product.BrandId);
+
+            ViewData["BrandId"] = new SelectList(await context.Brand.ToListAsync(), "Id", "name", product.BrandId);
             return View(product);
         }
+
 
         // POST: Products/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Description,Type,BrandId,Prospectus,ImagePath,Locations,ExpirationDate")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Description,Type,BrandId,Prospectus,ImagePath,Locations,ExpirationDate,price,quantity")] Product product)
         {
             if (id != product.Id)
             {
                 return NotFound();
             }
 
+            await using var context = await _contextFactory.CreateAsync();
+
             if (ModelState.IsValid)
             {
                 try
                 {
-                    _context.Update(product);
-                    await _context.SaveChangesAsync();
+                    context.Update(product);
+                    await context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ProductExists(product.Id))
+                    if (!await ProductExistsAsync(product.Id))
                     {
                         return NotFound();
                     }
@@ -120,9 +135,11 @@ namespace LicentaPharmastock.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["BrandId"] = new SelectList(_context.Brand, "Id", "Name", product.BrandId);
+
+            ViewData["BrandId"] = new SelectList(await context.Brand.ToListAsync(), "Id", "name", product.BrandId);
             return View(product);
         }
+
 
         // GET: Products/Delete/5
         public async Task<IActionResult> Delete(int? id)
@@ -132,9 +149,12 @@ namespace LicentaPharmastock.Controllers
                 return NotFound();
             }
 
-            var product = await _context.Product
+            await using var context = await _contextFactory.CreateAsync();
+
+            var product = await context.Product
                 .Include(p => p.Brand)
                 .FirstOrDefaultAsync(m => m.Id == id);
+
             if (product == null)
             {
                 return NotFound();
@@ -143,24 +163,29 @@ namespace LicentaPharmastock.Controllers
             return View(product);
         }
 
+
         // POST: Products/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var product = await _context.Product.FindAsync(id);
+            await using var context = await _contextFactory.CreateAsync();
+
+            var product = await context.Product.FindAsync(id);
             if (product != null)
             {
-                _context.Product.Remove(product);
+                context.Product.Remove(product);
+                await context.SaveChangesAsync();
             }
 
-            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool ProductExists(int id)
+
+        private async Task<bool> ProductExistsAsync(int id)
         {
-            return _context.Product.Any(e => e.Id == id);
+            await using var context = await _contextFactory.CreateAsync();
+            return await context.Product.AnyAsync(e => e.Id == id);
         }
     }
 }

@@ -1,16 +1,8 @@
-/*html {
-  font-size: 14px;
-}*/
-
 @media (min-width: 768px) {
   html {
     font-size: 16px;
   }
 }
-
-/*.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}*/
 
 html {
   position: relative;
@@ -32,12 +24,12 @@ a:hover {
 .bootstrap-table .fixed-table-loading {
     display: none !important;
 }
-/* General Styles */
 body {
     font-family: Arial, sans-serif;
     background-color: #f5f5f5;
     margin: 0;
     padding: 0;
+    margin-bottom:5%;
 }
 
 .logo{
@@ -45,7 +37,6 @@ body {
     width: auto;
 }
 
-/* Header */
 .header {
     background: linear-gradient(to right, #265D29, #54C95C);
     padding-left: 10px;
@@ -69,7 +60,6 @@ body {
         cursor: pointer;
     }
 
-/* Categories */
 .categories {
     display: flex;
     gap: 10px;
@@ -84,7 +74,6 @@ body {
         cursor: pointer;
     }
 
-/* Product Grid */
 .product-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -106,7 +95,6 @@ body {
         border-radius: 5px;
     }
 
-/* Buttons */
 .button-details, .button-sell {
     display: inline-block;
     padding: 8px 12px;
@@ -131,3 +119,69 @@ thead {
     color: white;
     font-weight: bold;
 }
+
+.bootstrap-table .search {
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.bootstrap-table .search input {
+    width: 20%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.custom-btn {
+    background-color: #265D29;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.custom-btn:hover {
+    color: white;
+    background-color: #2e6f31;
+}
+
+.custom-btn-small {
+    background-color: #54C95C;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition: 0.3s;
+    margin-right: 10px;
+}
+
+.custom-btn-small:hover {
+    color: white;
+    background-color: #4bb152;
+}
+
+.custom-btn-nav {
+    background-color: #204d22;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition: 0.3s;
+    margin-right: 15px;
+}
+
+    .custom-btn-nav:hover {
+        color: white;
+        background-color: #265D29;
+    }

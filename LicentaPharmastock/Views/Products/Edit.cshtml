@@ -1,4 +1,5 @@
-﻿@model LicentaPharmastock.Models.Product
+﻿@using LicentaPharmastock.Models.Enums
+@model LicentaPharmastock.Models.Product
 
 @{
     ViewData["Title"] = "Edit";
@@ -25,12 +26,12 @@
             </div>
             <div class="form-group">
                 <label asp-for="Type" class="control-label"></label>
-                <select asp-for="Type" class="form-control"></select>
+                <select asp-for="Type" asp-items="Html.GetEnumSelectList<ProductType>()" class="form-control"></select>
                 <span asp-validation-for="Type" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Brand" class="control-label"></label>
-                <select asp-for="Brand" class="form-control" asp-items="ViewBag.BrandId"></select>
+                <label asp-for="BrandId" class="control-label"></label>
+                <select asp-for="BrandId" class="form-control" asp-items="ViewBag.BrandId"></select>
                 <span asp-validation-for="BrandId" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -54,7 +55,17 @@
                 <span asp-validation-for="ExpirationDate" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+                <label asp-for="price" class="control-label"></label>
+                <input asp-for="price" class="form-control" />
+                <span asp-validation-for="price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="quantity" class="control-label"></label>
+                <input asp-for="quantity" class="form-control" />
+                <span asp-validation-for="quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="custom-btn" />
             </div>
         </form>
     </div>
