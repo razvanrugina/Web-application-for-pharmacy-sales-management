@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Fhn0Oj6J+u451OZWpEoYnCOWL+8HHC/VbEJdmypMbhA=",
+  "Hash": "wP7LSvHeLVoWgLvI9iYOY76/hx44u8YzXrp1Hjk3ewA=",
   "Source": "LicentaPharmastock",
   "BasePath": "_content/LicentaPharmastock",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "LicentaPharmastock\\wwwroot",
       "Source": "LicentaPharmastock",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\razva\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.11\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LicentaPharmastock.styles.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LicentaPharmastock.styles.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "LicentaPharmastock#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "FV/G6C/04O2NJhPG9U/ZqQwT6Ds27jJ7lhanggTk01Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LicentaPharmastock.styles.css"
+      "OriginalItemSpec": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LicentaPharmastock.styles.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LicentaPharmastock.bundle.scp.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LicentaPharmastock.bundle.scp.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "LicentaPharmastock#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "FV/G6C/04O2NJhPG9U/ZqQwT6Ds27jJ7lhanggTk01Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LicentaPharmastock.bundle.scp.css"
+      "OriginalItemSpec": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LicentaPharmastock.bundle.scp.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\css\\site.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\css\\site.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\favicon.ico",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\favicon.ico",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\images\\logo.svg",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\logo.svg",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "images/logo#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.svg"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\js\\site.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\js\\site.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2033,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2054,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2075,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2096,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2117,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2138,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2180,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2201,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2243,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2264,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2285,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2306,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2327,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -2348,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2369,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2390,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2432,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2453,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2474,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2495,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -2537,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2558,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2579,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
       "BasePath": "_content/LicentaPharmastock",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2603,7 +2603,7 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\css\\site.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2640,7 +2640,7 @@
     },
     {
       "Route": "css/site.xy4k06kitf.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\css\\site.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2685,7 +2685,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\favicon.ico",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2730,7 +2730,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\favicon.ico",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4987,7 +4987,7 @@
     },
     {
       "Route": "images/logo.bxr9wmy8j1.svg",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\images\\logo.svg",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\logo.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5032,7 +5032,7 @@
     },
     {
       "Route": "images/logo.svg",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\images\\logo.svg",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\logo.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5069,7 +5069,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\js\\site.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5106,7 +5106,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\js\\site.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5151,7 +5151,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5188,7 +5188,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5233,7 +5233,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5270,7 +5270,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5315,7 +5315,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5352,7 +5352,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5397,7 +5397,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5434,7 +5434,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5479,7 +5479,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5516,7 +5516,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5561,7 +5561,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5598,7 +5598,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.gjcw7pocpk.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5643,7 +5643,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.6l4ir0ityv.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5688,7 +5688,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5725,7 +5725,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5770,7 +5770,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5807,7 +5807,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5844,7 +5844,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5881,7 +5881,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5926,7 +5926,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5971,7 +5971,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6008,7 +6008,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6053,7 +6053,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6090,7 +6090,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6135,7 +6135,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6172,7 +6172,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6217,7 +6217,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6254,7 +6254,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6299,7 +6299,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6336,7 +6336,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6373,7 +6373,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6418,7 +6418,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6463,7 +6463,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6500,7 +6500,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6545,7 +6545,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6582,7 +6582,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6619,7 +6619,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6656,7 +6656,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6701,7 +6701,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6746,7 +6746,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6791,7 +6791,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6836,7 +6836,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6873,7 +6873,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6918,7 +6918,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6955,7 +6955,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6992,7 +6992,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7029,7 +7029,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7074,7 +7074,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7119,7 +7119,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7156,7 +7156,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7201,7 +7201,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7238,7 +7238,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7283,7 +7283,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7320,7 +7320,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7357,7 +7357,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7402,7 +7402,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7439,7 +7439,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7484,7 +7484,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7521,7 +7521,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7558,7 +7558,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7603,7 +7603,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7640,7 +7640,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7685,7 +7685,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7730,7 +7730,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7775,7 +7775,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.1piudyfv7h.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7820,7 +7820,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.f6zq8v6eb3.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7865,7 +7865,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7902,7 +7902,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7947,7 +7947,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7984,7 +7984,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.89qbw8ngem.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8029,7 +8029,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8066,7 +8066,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8111,7 +8111,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8148,7 +8148,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8185,7 +8185,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8230,7 +8230,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8267,7 +8267,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jqwzsa9uv6.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8312,7 +8312,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8349,7 +8349,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8386,7 +8386,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8431,7 +8431,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.n5w6o92d9r.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8476,7 +8476,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8513,7 +8513,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8558,7 +8558,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8595,7 +8595,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4908xmbfjr.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8640,7 +8640,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8677,7 +8677,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8714,7 +8714,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8759,7 +8759,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8796,7 +8796,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8841,7 +8841,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8886,7 +8886,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8923,7 +8923,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8968,7 +8968,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9013,7 +9013,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9050,7 +9050,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9087,7 +9087,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9132,7 +9132,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9169,7 +9169,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9214,7 +9214,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9251,7 +9251,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9296,7 +9296,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9333,7 +9333,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9378,7 +9378,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9415,7 +9415,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9452,7 +9452,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9497,7 +9497,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9534,7 +9534,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9579,7 +9579,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9624,7 +9624,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9661,7 +9661,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9706,7 +9706,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9743,7 +9743,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9788,7 +9788,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9825,7 +9825,7 @@
     },
     {
       "Route": "LicentaPharmastock.bkpmeev3gk.bundle.scp.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LicentaPharmastock.bundle.scp.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LicentaPharmastock.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9870,7 +9870,7 @@
     },
     {
       "Route": "LicentaPharmastock.bkpmeev3gk.styles.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LicentaPharmastock.styles.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LicentaPharmastock.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9915,7 +9915,7 @@
     },
     {
       "Route": "LicentaPharmastock.bundle.scp.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LicentaPharmastock.bundle.scp.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LicentaPharmastock.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9952,7 +9952,7 @@
     },
     {
       "Route": "LicentaPharmastock.styles.css",
-      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock - Multiple Databases attempt\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LicentaPharmastock.styles.css",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LicentaPharmastock.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
