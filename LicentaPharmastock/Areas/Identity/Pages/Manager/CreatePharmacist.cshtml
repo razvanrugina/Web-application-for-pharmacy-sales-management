@@ -1,0 +1,38 @@
+﻿@page
+@model LicentaPharmastock.Areas.Identity.Pages.Manager.CreatePharmacistModel
+@using LicentaPharmastock.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Create Pharmacist Account";
+}
+
+<h2 class="text-2xl font-bold mb-4">Create New Pharmacist Account</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Input.FirstName" class="form-label">First Name</label>
+        <input asp-for="Input.FirstName" class="form-control" />
+        <span asp-validation-for="Input.FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Input.Surname" class="form-label">Surname</label>
+        <input asp-for="Input.Surname" class="form-control" />
+        <span asp-validation-for="Input.Surname" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Input.LocationId" class="form-label">Pharmacy Location</label>
+        <select asp-for="Input.LocationId" class="form-select" asp-items="Model.LocationList">
+            <option value="">-- Select a location --</option>
+        </select>
+        <span asp-validation-for="Input.LocationId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Create Pharmacist</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

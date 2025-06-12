@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wP7LSvHeLVoWgLvI9iYOY76/hx44u8YzXrp1Hjk3ewA=",
+  "Hash": "bq6142LPFfVrjNwQQ1pqXKWFnoIc9Wcbv/WC0gzW5S8=",
   "Source": "LicentaPharmastock",
   "BasePath": "_content/LicentaPharmastock",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xy4k06kitf",
-      "Integrity": "Ke7kprVjoehe/41XiJ0VEheJRskVuNjiCk6QsCKlZw0=",
+      "Fingerprint": "vswvv2k1uv",
+      "Integrity": "MQEEtXFO7xCQwMoM0faKKWXBH+Jfyutrgz3bPnz0+XU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1361,6 +1361,48 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\building.svg",
+      "SourceId": "LicentaPharmastock",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
+      "BasePath": "_content/LicentaPharmastock",
+      "RelativePath": "images/building#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t79snhj93p",
+      "Integrity": "qeh7qsPx1DtE+J1FUbCNEYNhF2E8jtiNenHUmU1qY+c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\building.svg"
+    },
+    {
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\graph.svg",
+      "SourceId": "LicentaPharmastock",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
+      "BasePath": "_content/LicentaPharmastock",
+      "RelativePath": "images/graph#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2noxi8tckq",
+      "Integrity": "/jyGY2prkWAb7d/XneiJM1+mTatw2tKZs6iZb+FmVUw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\graph.svg"
+    },
+    {
       "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\logo.svg",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
@@ -1382,6 +1424,69 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.svg"
     },
     {
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\logo-green.svg",
+      "SourceId": "LicentaPharmastock",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
+      "BasePath": "_content/LicentaPharmastock",
+      "RelativePath": "images/logo-green#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a7p77ap161",
+      "Integrity": "VhpU6cfJrl80p7fKxpQipBvhOXvxmIEFp/PyL6GZrmQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo-green.svg"
+    },
+    {
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\notepad.svg",
+      "SourceId": "LicentaPharmastock",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
+      "BasePath": "_content/LicentaPharmastock",
+      "RelativePath": "images/notepad#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0u6oubpuik",
+      "Integrity": "aM0yyf5xcuSFea2sfSBc6AtzOiQ2gXuIieAnP6YSlBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\notepad.svg"
+    },
+    {
+      "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\people.svg",
+      "SourceId": "LicentaPharmastock",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\",
+      "BasePath": "_content/LicentaPharmastock",
+      "RelativePath": "images/people#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nzqb25qu2t",
+      "Integrity": "nQy24y0p4JSFpq7zdbPdYwu34n8+TJs5WkvQBVtPgtI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\people.svg"
+    },
+    {
       "Identity": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\js\\site.js",
       "SourceId": "LicentaPharmastock",
       "SourceType": "Discovered",
@@ -1396,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "lkla6qhjhf",
+      "Integrity": "SzYOJgDHCh3aGbMykbm0zVP+92wMw4P+Xu3/g2HhSSw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -2612,7 +2717,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3393"
+          "Value": "3841"
         },
         {
           "Name": "Content-Type",
@@ -2620,11 +2725,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ke7kprVjoehe/41XiJ0VEheJRskVuNjiCk6QsCKlZw0=\""
+          "Value": "\"MQEEtXFO7xCQwMoM0faKKWXBH+Jfyutrgz3bPnz0+XU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:23:56 GMT"
+          "Value": "Sat, 07 Jun 2025 18:45:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2634,12 +2739,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ke7kprVjoehe/41XiJ0VEheJRskVuNjiCk6QsCKlZw0="
+          "Value": "sha256-MQEEtXFO7xCQwMoM0faKKWXBH+Jfyutrgz3bPnz0+XU="
         }
       ]
     },
     {
-      "Route": "css/site.xy4k06kitf.css",
+      "Route": "css/site.vswvv2k1uv.css",
       "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2649,7 +2754,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3393"
+          "Value": "3841"
         },
         {
           "Name": "Content-Type",
@@ -2657,11 +2762,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ke7kprVjoehe/41XiJ0VEheJRskVuNjiCk6QsCKlZw0=\""
+          "Value": "\"MQEEtXFO7xCQwMoM0faKKWXBH+Jfyutrgz3bPnz0+XU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:23:56 GMT"
+          "Value": "Sat, 07 Jun 2025 18:45:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2671,7 +2776,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xy4k06kitf"
+          "Value": "vswvv2k1uv"
         },
         {
           "Name": "label",
@@ -2679,7 +2784,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ke7kprVjoehe/41XiJ0VEheJRskVuNjiCk6QsCKlZw0="
+          "Value": "sha256-MQEEtXFO7xCQwMoM0faKKWXBH+Jfyutrgz3bPnz0+XU="
         }
       ]
     },
@@ -4986,6 +5091,170 @@
       ]
     },
     {
+      "Route": "images/building.svg",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\building.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qeh7qsPx1DtE+J1FUbCNEYNhF2E8jtiNenHUmU1qY+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 17:56:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qeh7qsPx1DtE+J1FUbCNEYNhF2E8jtiNenHUmU1qY+c="
+        }
+      ]
+    },
+    {
+      "Route": "images/building.t79snhj93p.svg",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\building.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qeh7qsPx1DtE+J1FUbCNEYNhF2E8jtiNenHUmU1qY+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 17:56:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t79snhj93p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/building.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qeh7qsPx1DtE+J1FUbCNEYNhF2E8jtiNenHUmU1qY+c="
+        }
+      ]
+    },
+    {
+      "Route": "images/graph.2noxi8tckq.svg",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\graph.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/jyGY2prkWAb7d/XneiJM1+mTatw2tKZs6iZb+FmVUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 17:58:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2noxi8tckq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/graph.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/jyGY2prkWAb7d/XneiJM1+mTatw2tKZs6iZb+FmVUw="
+        }
+      ]
+    },
+    {
+      "Route": "images/graph.svg",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\graph.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/jyGY2prkWAb7d/XneiJM1+mTatw2tKZs6iZb+FmVUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 17:58:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/jyGY2prkWAb7d/XneiJM1+mTatw2tKZs6iZb+FmVUw="
+        }
+      ]
+    },
+    {
       "Route": "images/logo.bxr9wmy8j1.svg",
       "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\logo.svg",
       "Selectors": [],
@@ -5068,6 +5337,252 @@
       ]
     },
     {
+      "Route": "images/logo-green.a7p77ap161.svg",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\logo-green.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VhpU6cfJrl80p7fKxpQipBvhOXvxmIEFp/PyL6GZrmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 14:00:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a7p77ap161"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo-green.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VhpU6cfJrl80p7fKxpQipBvhOXvxmIEFp/PyL6GZrmQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo-green.svg",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\logo-green.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VhpU6cfJrl80p7fKxpQipBvhOXvxmIEFp/PyL6GZrmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 14:00:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VhpU6cfJrl80p7fKxpQipBvhOXvxmIEFp/PyL6GZrmQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/notepad.0u6oubpuik.svg",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\notepad.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aM0yyf5xcuSFea2sfSBc6AtzOiQ2gXuIieAnP6YSlBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 17:57:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0u6oubpuik"
+        },
+        {
+          "Name": "label",
+          "Value": "images/notepad.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aM0yyf5xcuSFea2sfSBc6AtzOiQ2gXuIieAnP6YSlBw="
+        }
+      ]
+    },
+    {
+      "Route": "images/notepad.svg",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\notepad.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aM0yyf5xcuSFea2sfSBc6AtzOiQ2gXuIieAnP6YSlBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 17:57:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aM0yyf5xcuSFea2sfSBc6AtzOiQ2gXuIieAnP6YSlBw="
+        }
+      ]
+    },
+    {
+      "Route": "images/people.nzqb25qu2t.svg",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\people.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nQy24y0p4JSFpq7zdbPdYwu34n8+TJs5WkvQBVtPgtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 17:57:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nzqb25qu2t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/people.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nQy24y0p4JSFpq7zdbPdYwu34n8+TJs5WkvQBVtPgtI="
+        }
+      ]
+    },
+    {
+      "Route": "images/people.svg",
+      "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\people.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nQy24y0p4JSFpq7zdbPdYwu34n8+TJs5WkvQBVtPgtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 17:57:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nQy24y0p4JSFpq7zdbPdYwu34n8+TJs5WkvQBVtPgtI="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -5078,7 +5593,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "229"
         },
         {
           "Name": "Content-Type",
@@ -5086,11 +5601,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"SzYOJgDHCh3aGbMykbm0zVP+92wMw4P+Xu3/g2HhSSw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 19:02:18 GMT"
+          "Value": "Wed, 21 May 2025 15:57:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5100,12 +5615,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-SzYOJgDHCh3aGbMykbm0zVP+92wMw4P+Xu3/g2HhSSw="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
+      "Route": "js/site.lkla6qhjhf.js",
       "AssetFile": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5115,7 +5630,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "229"
         },
         {
           "Name": "Content-Type",
@@ -5123,11 +5638,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"SzYOJgDHCh3aGbMykbm0zVP+92wMw4P+Xu3/g2HhSSw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 19:02:18 GMT"
+          "Value": "Wed, 21 May 2025 15:57:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5137,7 +5652,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "lkla6qhjhf"
         },
         {
           "Name": "label",
@@ -5145,7 +5660,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-SzYOJgDHCh3aGbMykbm0zVP+92wMw4P+Xu3/g2HhSSw="
         }
       ]
     },
@@ -9846,7 +10361,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 19:02:18 GMT"
+          "Value": "Tue, 03 Jun 2025 08:43:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9891,7 +10406,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 19:02:18 GMT"
+          "Value": "Tue, 03 Jun 2025 08:43:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9936,7 +10451,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 19:02:18 GMT"
+          "Value": "Tue, 03 Jun 2025 08:43:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9973,7 +10488,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 19:02:18 GMT"
+          "Value": "Tue, 03 Jun 2025 08:43:37 GMT"
         },
         {
           "Name": "Cache-Control",

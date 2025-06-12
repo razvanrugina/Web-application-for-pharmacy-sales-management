@@ -1,80 +1,124 @@
 ﻿@model LicentaPharmastock.Models.Product
+@using LicentaPharmastock.Models.Enums
 
 @{
     ViewData["Title"] = "Details";
 }
 
-<h1>Details</h1>
+<h1 class="text-center mt-5 mb-4">PRODUCT DETAILS</h1>
 
-<div>
-    <h4>Product</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Name)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Name)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Description)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Description)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Type)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Type)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Brand)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Brand.name)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Prospectus)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Prospectus)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ImagePath)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ImagePath)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Locations)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Locations)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ExpirationDate)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ExpirationDate)
-        </dd>
-        <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.price)
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.price)
-        </dd>
-        <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.quantity)
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.quantity)
-        </dd>
-    </dl>
-    
+<div class="row">
+    <div class="col-md-9" >
+        <dl class="row" style="margin-left:60vh;">
+            <dt class="col-sm-3">@Html.DisplayNameFor(m => m.Name)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(m => m.Name)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(m => m.Description)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(m => m.Description)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(m => m.Type)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(m => m.Type)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(m => m.Brand.name)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(m => m.Brand.name)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(m => m.PackageCount)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(m => m.PackageCount)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(m => m.LooseUnitCount)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(m => m.LooseUnitCount)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(m => m.Quantity)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(m => m.Quantity)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(m => m.PackagePrice)</dt>
+            <dd class="col-sm-9">@Model.PackagePrice.ToString("C")</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(m => m.ExpirationDate)</dt>
+            <dd class="col-sm-9">@Model.ExpirationDate.ToString("dd-MM-yyyy")</dd>
+
+            <dt class="col-sm-3">Locations</dt>
+            <dd class="col-sm-9">
+                @if (Model.Locations?.Any() == true)
+                {
+                    <ul>
+                        @foreach (var loc in Model.Locations)
+                        {
+                            <li>@loc.name</li>
+                        }
+                    </ul>
+                }
+                else
+                {
+                    <span>No assigned locations</span>
+                }
+            </dd>
+        </dl>
+
+        <div class="mb-4 text-center" style="margin-left:40vh;">
+            <button id="checkAvailabilityBtn" class="custom-btn">
+                Check Availability in Other Locations
+            </button>
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="custom-btn me-2 mx-3">Edit</a>
+            <a asp-action="Index" class="btn custom-btn mx-3">Back to List</a>
+        </div>
+
+        <!-- Modal -->
+        <div id="availabilityModal" class="modal fade" tabindex="-1" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Available in Other Locations</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <ul id="availabilityList" class="list-group"></ul>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
 </div>
-<div>
-    <a asp-action="Delete" asp-route-id="@Model?.Id" class="custom-btn-small">Delete</a>
-    <a asp-action="Edit" asp-route-id="@Model?.Id" class="custom-btn-small">Edit</a>
-    <a asp-action="Index" class="custom-btn-small">Back to List</a>
-</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.getElementById("checkAvailabilityBtn").addEventListener("click", async () => {
+            const name = encodeURIComponent('@Model.Name');
+            const brandId = @Model.BrandId;
+            const productId = @Model.Id;
+
+            try {
+                const response = await fetch(`/Products/GetProductAvailability?name=${name}&brandId=${brandId}&currentProductId=${productId}`);
+                const data = await response.json();
+
+                const list = document.getElementById("availabilityList");
+                list.innerHTML = "";
+
+                if (data.length === 0) {
+                    const li = document.createElement("li");
+                    li.className = "list-group-item";
+                    li.textContent = "No availability in other locations.";
+                    list.appendChild(li);
+                } else {
+                    data.forEach(item => {
+                        const li = document.createElement("li");
+                        li.className = "list-group-item";
+                        li.textContent = `${item.locationName}: ${item.quantity} in stock`;
+                        list.appendChild(li);
+                    });
+                }
+
+                const modal = new bootstrap.Modal(document.getElementById('availabilityModal'));
+                modal.show();
+            } catch (err) {
+                alert("Error fetching availability.");
+                console.error(err);
+            }
+        });
+    </script>
+}

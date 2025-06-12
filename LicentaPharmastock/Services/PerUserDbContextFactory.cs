@@ -40,7 +40,11 @@ namespace LicentaPharmastock.Services
             var optionsBuilder = new DbContextOptionsBuilder<PerUserDbContext>();
             optionsBuilder.UseSqlServer(connectionString);
 
-            return new PerUserDbContext(optionsBuilder.Options);
+            var context = new PerUserDbContext(optionsBuilder.Options);
+
+            await context.Database.MigrateAsync();
+
+            return context;
         }
 
     }

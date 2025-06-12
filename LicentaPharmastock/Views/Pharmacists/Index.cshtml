@@ -1,0 +1,89 @@
+﻿@model IEnumerable<LicentaPharmastock.Models.ApplicationUser>
+
+@{
+    ViewData["Title"] = "Pharmacists";
+}
+
+<h1 class="text-center mt-5">PHARMACISTS</h1>
+
+@if (TempData["PharmacistCreated"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["PharmacistCreated"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<p>
+    <a asp-area="Identity" asp-page="/Manager/CreatePharmacist" class="custom-btn">
+        Add new pharmacist
+    </a>
+</p>
+
+<table class="table table-bordered"
+       data-toggle="table"
+       data-search="true"
+       data-pagination="true"
+       data-show-loading="false"
+       data-sortable="true">
+    <thead>
+        <tr>
+            <th data-sortable="true">Name ↓</th>
+            <th data-sortable="true">Email ↓</th>
+            <th data-sortable="true">Nickname ↓</th>
+            <th data-sortable="true">Location ↓</th>
+            <th>Password</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@($"{u.Surname} {u.FirstName}")</td>
+                <td>@u.Email</td>
+                <td>@u.Nickname</td>
+                <td>@u.Location?.name</td>
+                <td>
+                    <span class="password-mask">••••••••••</span>
+                    <span class="password-text d-none">@u.PlainPassword</span>
+                    <button type="button" class="btn btn-sm btn-outline-secondary show-pw ms-2">
+                        Show
+                    </button>
+                </td>
+                <td>
+                    <form asp-action="Delete" method="post" asp-controller="Pharmacists" class="d-inline">
+                        <input type="hidden" name="id" value="@u.Id" />
+                        <button type="submit" class="custom-btn-small btn-danger"
+                                onclick="return confirm('Delete this pharmacist?');">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="https://unpkg.com/bootstrap-table@1.21.4/dist/bootstrap-table.min.js"></script>
+    <script>
+        document.body.addEventListener('click', function(e) {
+            if (!e.target.classList.contains('show-pw')) return;
+            const td   = e.target.closest('td');
+            const mask = td.querySelector('.password-mask');
+            const text = td.querySelector('.password-text');
+            mask.classList.toggle('d-none');
+            text.classList.toggle('d-none');
+            e.target.textContent = text.classList.contains('d-none') ? 'Show' : 'Hide';
+        });
+
+        // auto-dismiss alert after 5s
+        setTimeout(() => {
+            const alertNode = document.querySelector('.alert.alert-success');
+            if (alertNode) {
+                bootstrap.Alert.getOrCreateInstance(alertNode).close();
+            }
+        }, 5000);
+    </script>
+}

@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -10,26 +14,65 @@
 </head>
 <body>
     <header class="header">
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light mb-3">
+        @{
+            var user = HttpContextAccessor.HttpContext.User;
+            string page = (ViewContext.RouteData.Values["page"] as string ?? "").ToLowerInvariant();
+
+            bool isAuthPage = page.StartsWith("/account/login")
+            || page.StartsWith("/account/register");
+            bool isManager = user.IsInRole("Manager");
+            bool isPharmacist = user.IsInRole("Pharmacist");
+            bool isOnManagerIndex = page == "/manager/index";
+            var currentPage = ViewContext.RouteData.Values["page"]?.ToString();
+            bool isRegisterPage = currentPage == "/Account/Register";
+        }
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light mb-3 fixed-height-navbar">
             <div class="container-fluid">
+
                 <a class="navbar-brand" asp-area="" asp-controller="Products" asp-action="Index">
                     <img src="~/images/logo.svg" class="logo" alt="Logo">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+                aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Brands" asp-action="Index">Brands</a>
+                @if (!isAuthPage)
+                {
+                    <div class="collapse navbar-collapse" id="mainNavbar">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            @* Pharmacists see Brands *@
+                            @if (isPharmacist)
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Brands" asp-action="Index">Brands</a>
+                                </li>
+                            }
+                            @* Managers see Dashboard only when not on it *@
+                            @if (isManager && !isOnManagerIndex)
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-area="Identity" asp-page="/Manager/Index">Dashboard</a>
+                                </li>
+                            }
+                        </ul>
+
+                        <div class="d-flex">
+                            <partial name="_LoginPartial" />
+                        </div>
+                    </div>
+                }
+
+                @if (isRegisterPage)
+                {
+                    <div class="d-flex justify-content-end w-100 mx-4">
+                        <ul class="navbar-nav justify-content-end w-100">
+                        <li class="nav-item ">
+                            <a class="nav-link text-white" asp-area="Identity" asp-page="/Account/Login">Login</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Locations" asp-action="Index">Locations</a>
-                        </li>
-                    </ul>
-                    <partial name="_LoginPartial" />
-                </div>
+                        </ul>
+                    </div>
+                }
+
             </div>
         </nav>
     </header>

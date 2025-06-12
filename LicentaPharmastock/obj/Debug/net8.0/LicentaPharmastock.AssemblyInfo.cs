@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LicentaPharmastock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afd6701165b7092e26c5a98fd771c931eaad4260")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e85deb640f6696ae64d8068fcaf12d2695e6c1b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("LicentaPharmastock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LicentaPharmastock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

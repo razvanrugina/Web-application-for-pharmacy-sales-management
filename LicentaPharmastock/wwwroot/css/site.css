@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-    color:darkgreen;
+    color:#157347;
 }
 
 .bootstrap-table .fixed-table-loading {
@@ -37,28 +37,33 @@ body {
     width: auto;
 }
 
+.logo-green {
+    height: 70px;
+    width: auto;
+}
+
 .header {
-    background: linear-gradient(to right, #265D29, #54C95C);
+    background: linear-gradient(to right, #0f5132, #54C95C);
     padding-left: 10px;
     color: white;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
 }
 
-    .header .search-bar {
-        padding: 5px 10px;
-        border-radius: 15px;
-        border: none;
-        outline: none;
-    }
+.header .search-bar {
+    padding: 5px 10px;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+}
 
-    .header .buttons button {
-        background-color: #2d6a4f;
-        border: none;
-        padding: 8px 12px;
-        border-radius: 5px;
-        color: white;
-        cursor: pointer;
-    }
+.header .buttons button {
+    background-color: #2d6a4f;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
 
 .categories {
     display: flex;
@@ -66,13 +71,13 @@ body {
     margin: 15px 20px;
 }
 
-    .categories .category {
-        background-color: #6a994e;
-        color: white;
-        padding: 5px 15px;
-        border-radius: 20px;
-        cursor: pointer;
-    }
+.categories .category {
+    background-color: #6a994e;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
+    cursor: pointer;
+}
 
 .product-grid {
     display: grid;
@@ -89,11 +94,11 @@ body {
     text-align: center;
 }
 
-    .product-card img {
-        width: 100%;
-        height: auto;
-        border-radius: 5px;
-    }
+.product-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
 
 .button-details, .button-sell {
     display: inline-block;
@@ -115,7 +120,7 @@ body {
 
 thead {
     margin-top:20 px;
-    background-color: darkgreen;
+    background-color: #157347;
     color: white;
     font-weight: bold;
 }
@@ -134,7 +139,7 @@ thead {
 }
 
 .custom-btn {
-    background-color: #265D29;
+    background-color: #157347;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -145,10 +150,10 @@ thead {
     transition: 0.3s;
 }
 
-.custom-btn:hover {
-    color: white;
-    background-color: #2e6f31;
-}
+    .custom-btn:hover {
+        color: white;
+        background-color: #0f5132;
+    }
 
 .custom-btn-small {
     background-color: #54C95C;
@@ -181,7 +186,29 @@ thead {
     margin-right: 15px;
 }
 
-    .custom-btn-nav:hover {
-        color: white;
-        background-color: #265D29;
-    }
+.custom-btn-nav:hover {
+    color: white;
+    background-color: #265D29;
+}
+
+.fixed-height-navbar {
+    min-height: 70px; /* or any height you prefer */
+}
+
+.dashboard{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 15vh;
+    height: 40vh;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1rem; /* increase font size */
+    font-weight: bold; /* make text bold */
+    color: white !important; /* make text white and override Bootstrap */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #c8f7c5 !important; /* optional lighter green on hover */
+}
+

@@ -1,15 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using LicentaPharmastock.Data;
 using LicentaPharmastock.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace LicentaPharmastock.Controllers
 {
+    [Authorize(Roles = "Manager")]
     public class LocationsController : Controller
     {
         private readonly PerUserDbContext _context;
@@ -22,25 +21,16 @@ namespace LicentaPharmastock.Controllers
         // GET: Locations
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Location.ToListAsync());
+            return View(await _context.Locations.ToListAsync());
         }
 
         // GET: Locations/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            if (id == null) return NotFound();
 
-            var location = await _context.Location
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (location == null)
-            {
-                return NotFound();
-            }
-
-            return View(location);
+            var location = await _context.Locations.FirstOrDefaultAsync(m => m.Id == id);
+            return location == null ? NotFound() : View(location);
         }
 
         // GET: Locations/Create
@@ -50,88 +40,59 @@ namespace LicentaPharmastock.Controllers
         }
 
         // POST: Locations/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,name,address")] Location location)
+        public async Task<IActionResult> Create([Bind("Id,name,address,Latitude,Longitude")] Location location)
         {
-            if (ModelState.IsValid)
-            {
-                _context.Add(location);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }
-            return View(location);
+            if (!ModelState.IsValid)
+                return View(location);
+
+            _context.Add(location);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
 
         // GET: Locations/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            if (id == null) return NotFound();
 
-            var location = await _context.Location.FindAsync(id);
-            if (location == null)
-            {
-                return NotFound();
-            }
-            return View(location);
+            var location = await _context.Locations.FindAsync(id);
+            return location == null ? NotFound() : View(location);
         }
 
         // POST: Locations/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,name,address")] Location location)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,name,address,Latitude,Longitude")] Location location)
         {
-            if (id != location.Id)
+            if (id != location.Id) return NotFound();
+
+            if (!ModelState.IsValid)
+                return View(location);
+
+            try
             {
-                return NotFound();
+                _context.Update(location);
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!LocationExists(location.Id))
+                    return NotFound();
+                throw;
             }
 
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    _context.Update(location);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!LocationExists(location.Id))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(Index));
-            }
-            return View(location);
+            return RedirectToAction(nameof(Index));
         }
 
         // GET: Locations/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            if (id == null) return NotFound();
 
-            var location = await _context.Location
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (location == null)
-            {
-                return NotFound();
-            }
-
-            return View(location);
+            var location = await _context.Locations.FirstOrDefaultAsync(m => m.Id == id);
+            return location == null ? NotFound() : View(location);
         }
 
         // POST: Locations/Delete/5
@@ -139,19 +100,19 @@ namespace LicentaPharmastock.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var location = await _context.Location.FindAsync(id);
+            var location = await _context.Locations.FindAsync(id);
             if (location != null)
             {
-                _context.Location.Remove(location);
+                _context.Locations.Remove(location);
+                await _context.SaveChangesAsync();
             }
 
-            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool LocationExists(int id)
         {
-            return _context.Location.Any(e => e.Id == id);
+            return _context.Locations.Any(e => e.Id == id);
         }
     }
 }

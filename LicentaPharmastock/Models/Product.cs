@@ -1,46 +1,54 @@
-﻿using LicentaPharmastock.Models.Enums;
+﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using LicentaPharmastock.Models.Enums;
 
 namespace LicentaPharmastock.Models
 {
     public class Product
     {
-        public int Id { get;  set; }  // Primary Key (immutable after creation)
+        public int Id { get; set; }  // Primary Key
 
         [Required, MaxLength(100)]
         public string Name { get; set; }
 
-        [MaxLength(500)]
         public string Description { get; set; }
 
         [Required]
         public ProductType Type { get; set; }
 
         [Required]
-        public int BrandId { get; set; }     // Foreign Key
+        public int BrandId { get; set; }
+        public Brand? Brand { get; set; }
 
-        public Brand? Brand { get; set; }    // Navigation Property
-
-
-        [MaxLength(2000)]
-        public string Prospectus { get; set; }
         [Required]
-        public string ImagePath { get; set; }
+        [Display(Name = "Units per Package")]
+        public int UnitsPerPackage { get; set; }
+
         [Required]
-        public List<string> Locations { get; set; }
+        [Display(Name = "Full Packages")]
+        public int PackageCount { get; set; }
+
+        [Display(Name = "Loose Units")]
+        public int LooseUnitCount { get; set; } = 0;
+
+        [NotMapped]
+        [Display(Name = "Total Units")]
+        public int Quantity => PackageCount * UnitsPerPackage + LooseUnitCount;
+
+        [Required]
+        public List<Location> Locations { get; set; } = new List<Location>();
 
         [Required]
         public DateTime ExpirationDate { get; set; }
-        [Required]
-        [Display(Name = "Price")]
-        public float price { get; set; }
-        [Required]
-        [Display(Name = "Quantity")]
-        public int quantity { get; set; }
 
-        public Product()
-        {
-            
-        }
+        [Required]
+        [Display(Name = "Package Price")]
+        [Column(TypeName = "decimal(18,2)")]
+        public decimal PackagePrice { get; set; }
+
+        [NotMapped]
+        public decimal UnitPrice => PackagePrice / UnitsPerPackage;
     }
 }

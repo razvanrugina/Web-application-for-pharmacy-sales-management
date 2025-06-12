@@ -32,9 +32,12 @@ namespace LicentaPharmastock.Migrations
 
                     b.Property<string>("name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("name")
+                        .IsUnique();
 
                     b.ToTable("Brand");
                 });
@@ -47,6 +50,12 @@ namespace LicentaPharmastock.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<double>("Latitude")
+                        .HasColumnType("float");
+
+                    b.Property<double>("Longitude")
+                        .HasColumnType("float");
+
                     b.Property<string>("address")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -57,7 +66,7 @@ namespace LicentaPharmastock.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Location");
+                    b.ToTable("Locations");
                 });
 
             modelBuilder.Entity("LicentaPharmastock.Models.Product", b =>
@@ -73,37 +82,29 @@ namespace LicentaPharmastock.Migrations
 
                     b.Property<string>("Description")
                         .IsRequired()
-                        .HasMaxLength(500)
-                        .HasColumnType("nvarchar(500)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("ExpirationDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("ImagePath")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Locations")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("LooseUnitCount")
+                        .HasColumnType("int");
 
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.Property<string>("Prospectus")
-                        .IsRequired()
-                        .HasMaxLength(2000)
-                        .HasColumnType("nvarchar(2000)");
+                    b.Property<int>("PackageCount")
+                        .HasColumnType("int");
+
+                    b.Property<decimal>("PackagePrice")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<int>("Type")
                         .HasColumnType("int");
 
-                    b.Property<float>("price")
-                        .HasColumnType("real");
-
-                    b.Property<int>("quantity")
+                    b.Property<int>("UnitsPerPackage")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -111,6 +112,21 @@ namespace LicentaPharmastock.Migrations
                     b.HasIndex("BrandId");
 
                     b.ToTable("Product");
+                });
+
+            modelBuilder.Entity("LocationProduct", b =>
+                {
+                    b.Property<int>("LocationsId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.HasKey("LocationsId", "ProductId");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("ProductLocations", (string)null);
                 });
 
             modelBuilder.Entity("LicentaPharmastock.Models.Product", b =>
@@ -122,6 +138,21 @@ namespace LicentaPharmastock.Migrations
                         .IsRequired();
 
                     b.Navigation("Brand");
+                });
+
+            modelBuilder.Entity("LocationProduct", b =>
+                {
+                    b.HasOne("LicentaPharmastock.Models.Location", null)
+                        .WithMany()
+                        .HasForeignKey("LocationsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LicentaPharmastock.Models.Product", null)
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

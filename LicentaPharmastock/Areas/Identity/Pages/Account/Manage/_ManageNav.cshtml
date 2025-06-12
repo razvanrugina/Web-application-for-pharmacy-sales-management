@@ -2,15 +2,73 @@
 @inject SignInManager<ApplicationUser> SignInManager
 @{
     var hasExternalLogins = (await SignInManager.GetExternalAuthenticationSchemesAsync()).Any();
+    bool isPharmacist = User.IsInRole("Pharmacist");
 }
+<style>
+    /* All nav links green by default */
+    .nav-pills .nav-link {
+        color: #28a745 !important; /* Bootstrap green */
+    }
+        /* On hover */
+        .nav-pills .nav-link:hover {
+            color: #1e7e34 !important; /* Darker green for hover */
+        }
+        /* Active link */
+        .nav-pills .nav-link.active {
+            background-color: #28a745 !important;
+            color: white !important;
+        }
+</style>
+
 <ul class="nav nav-pills flex-column">
-    <li class="nav-item"><a class="nav-link @ManageNavPages.IndexNavClass(ViewContext)" id="profile" asp-page="./Index">Profile</a></li>
-    <li class="nav-item"><a class="nav-link @ManageNavPages.EmailNavClass(ViewContext)" id="email" asp-page="./Email">Email</a></li>
-    <li class="nav-item"><a class="nav-link @ManageNavPages.ChangePasswordNavClass(ViewContext)" id="change-password" asp-page="./ChangePassword">Password</a></li>
+    <li class="nav-item">
+        <a class="nav-link @ManageNavPages.IndexNavClass(ViewContext)"
+           id="profile"
+           asp-page="./Index">
+            Profile
+        </a>
+    </li>
+
+    @* Only managers can change email *@
+    @if (!isPharmacist)
+    {
+        <li class="nav-item">
+            <a class="nav-link @ManageNavPages.EmailNavClass(ViewContext)"
+               id="email"
+               asp-page="./Email">
+                Email
+            </a>
+        </li>
+    }
+
+    @* Only managers can change password *@
+    @if (!isPharmacist)
+    {
+        <li class="nav-item">
+            <a class="nav-link @ManageNavPages.ChangePasswordNavClass(ViewContext)"
+               id="change-password"
+               asp-page="./ChangePassword">
+                Password
+            </a>
+        </li>
+    }
+
     @if (hasExternalLogins)
     {
-        <li id="external-logins" class="nav-item"><a id="external-login" class="nav-link @ManageNavPages.ExternalLoginsNavClass(ViewContext)" asp-page="./ExternalLogins">External logins</a></li>
+        <li id="external-logins" class="nav-item">
+            <a id="external-login"
+               class="nav-link @ManageNavPages.ExternalLoginsNavClass(ViewContext)"
+               asp-page="./ExternalLogins">
+                External logins
+            </a>
+        </li>
     }
-    <li class="nav-item"><a class="nav-link @ManageNavPages.TwoFactorAuthenticationNavClass(ViewContext)" id="two-factor" asp-page="./TwoFactorAuthentication">Two-factor authentication</a></li>
-    <li class="nav-item"><a class="nav-link @ManageNavPages.PersonalDataNavClass(ViewContext)" id="personal-data" asp-page="./PersonalData">Personal data</a></li>
+
+    <li class="nav-item">
+        <a class="nav-link @ManageNavPages.PersonalDataNavClass(ViewContext)"
+           id="personal-data"
+           asp-page="./PersonalData">
+            Personal data
+        </a>
+    </li>
 </ul>

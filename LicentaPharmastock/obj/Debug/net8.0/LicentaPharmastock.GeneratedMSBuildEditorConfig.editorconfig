@@ -176,6 +176,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/ba-razvan stuff/Facultate An III/Lucru pt Licenta/Licenta/LicentaPharmastock/LicentaPharmastock/Areas/Identity/Pages/Manager/CreatePharmacist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcTWFuYWdlclxDcmVhdGVQaGFybWFjaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ba-razvan stuff/Facultate An III/Lucru pt Licenta/Licenta/LicentaPharmastock/LicentaPharmastock/Areas/Identity/Pages/Manager/FixExistingAccounts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcTWFuYWdlclxGaXhFeGlzdGluZ0FjY291bnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ba-razvan stuff/Facultate An III/Lucru pt Licenta/Licenta/LicentaPharmastock/LicentaPharmastock/Areas/Identity/Pages/Manager/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcTWFuYWdlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/ba-razvan stuff/Facultate An III/Lucru pt Licenta/Licenta/LicentaPharmastock/LicentaPharmastock/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -234,6 +246,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/ba-razvan stuff/Facultate An III/Lucru pt Licenta/Licenta/LicentaPharmastock/LicentaPharmastock/Views/Locations/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ba-razvan stuff/Facultate An III/Lucru pt Licenta/Licenta/LicentaPharmastock/LicentaPharmastock/Views/Pharmacists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2lzdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/ba-razvan stuff/Facultate An III/Lucru pt Licenta/Licenta/LicentaPharmastock/LicentaPharmastock/Views/Products/Create.cshtml]

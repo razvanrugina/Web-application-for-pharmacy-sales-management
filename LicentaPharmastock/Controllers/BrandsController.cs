@@ -153,5 +153,31 @@ namespace LicentaPharmastock.Controllers
         {
             return _context.Brand.Any(e => e.Id == id);
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Search(string term)
+        {
+            if (string.IsNullOrEmpty(term))
+                return Json(new object[0]);
+
+            // search for matching brands by name
+            var matches = await _context.Brand
+                .Where(b => b.name.Contains(term))
+                .Select(b => new {
+                    label = b.name,
+                    value = b.Id
+                })
+                .ToListAsync();
+
+            return Json(matches);
+        }
+
+        [AcceptVerbs("GET", "POST")]
+        public IActionResult VerifyName(string name, int? id)
+        {
+            var exists = _context.Brand.Any(b => b.name == name
+                && (id == null || b.Id != id));
+            return Json(!exists);
+        }
     }
 }

@@ -1,0 +1,101 @@
+﻿@page
+@model LicentaPharmastock.Areas.Identity.Pages.Manager.IndexModel
+@{
+    ViewData["Title"] = "Manager Dashboard";
+}
+
+
+<h1 class="text-3xl font-bold mt-4 text-center">Manager Dashboard</h1>
+
+<div class="row g-4 mt-4">
+    <!-- Location Management -->
+    <div class="col-12 col-md-6 col-lg-3">
+        <div class="card shadow group reveal-card text-center">
+            <div class="card-body d-flex flex-column align-items-center">
+                <img src="~/images/building.svg" class="green-icon" alt="icon" />
+                <a class="btn btn-success btn-lg w-100 mb-2">Location Management</a>
+                <p class="description">
+                    Add new pharmacy locations or update existing ones. Ensure all pharmacies are correctly placed on the map and up to date with their contact and operational details.
+                </p>
+                <a asp-controller="Locations" asp-action="Index" class="stretched-link"></a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pharmacist Accounts -->
+    <div class="col-12 col-md-6 col-lg-3">
+        <div class="card shadow group reveal-card text-center">
+            <div class="card-body d-flex flex-column align-items-center position-relative">
+                <img src="~/images/people.svg" class="green-icon mb-3" alt="icon" />
+                <a asp-controller="Pharmacists" asp-action="Index" class="btn btn-success btn-lg w-100 mb-2">
+                    Pharmacist Accounts
+                </a>
+                <p class="description">
+                    Register new pharmacists, assign them to pharmacy locations, and manage their credentials securely and efficiently within the system.
+                </p>
+                @* Stretch the entire card to click through to the same Index action *@
+                <a asp-controller="Pharmacists" asp-action="Index" class="stretched-link"></a>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Pharmacist Logs -->
+    <div class="col-12 col-md-6 col-lg-3">
+        <div class="card shadow group reveal-card text-center">
+            <div class="card-body d-flex flex-column align-items-center">
+                <img src="~/images/notepad.svg" class="green-icon" alt="icon" />
+                <a class="btn btn-success btn-lg w-100 mb-2">Pharmacist Logs</a>
+                <p class="description">
+                    View logs of pharmacist activities such as inventory changes, sales, and trash events to maintain transparency and accountability.
+                </p>
+                <a asp-page="/Manager/PharmacistLogs" class="stretched-link"></a>
+            </div>
+        </div>
+    </div>
+
+    <!-- AI Assistant -->
+    <div class="col-12 col-md-6 col-lg-3">
+        <div class="card shadow group reveal-card text-center">
+            <div class="card-body d-flex flex-column align-items-center">
+                <img src="~/images/graph.svg" class="green-icon" alt="icon" />
+                <button class="btn btn-success btn-lg w-100 mb-2">AI Assistant</button>
+                <p class="description">
+                    A future tool powered by AI to analyze stock levels and sales data, offering smart suggestions to optimize inventory and improve decision-making.
+                </p>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<style>
+    .reveal-card .card-body {
+        padding: 1rem 1rem 0.5rem;
+        transition: padding-bottom 0.3s ease;
+    }
+
+    .reveal-card .description {
+        max-height: 0;
+        opacity: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease, opacity 0.3s ease;
+        margin-top: 0.5rem;
+    }
+
+    .reveal-card:hover .description {
+        max-height: 10rem;
+        opacity: 1;
+    }
+
+    .reveal-card:hover .card-body {
+        padding-bottom: 1.5rem;
+    }
+
+    .green-icon {
+        filter: invert(33%) sepia(91%) saturate(383%) hue-rotate(86deg) brightness(95%) contrast(92%);
+        width: 60%;
+        height: auto;
+        opacity: 0.8;
+    }
+</style>

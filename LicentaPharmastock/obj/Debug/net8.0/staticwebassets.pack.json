@@ -13,8 +13,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\building.svg",
+      "PackagePath": "staticwebassets\\images\\building.svg"
+    },
+    {
+      "Id": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\graph.svg",
+      "PackagePath": "staticwebassets\\images\\graph.svg"
+    },
+    {
+      "Id": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\logo-green.svg",
+      "PackagePath": "staticwebassets\\images\\logo-green.svg"
+    },
+    {
       "Id": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\logo.svg",
       "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\notepad.svg",
+      "PackagePath": "staticwebassets\\images\\notepad.svg"
+    },
+    {
+      "Id": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\images\\people.svg",
+      "PackagePath": "staticwebassets\\images\\people.svg"
     },
     {
       "Id": "E:\\ba-razvan stuff\\Facultate An III\\Lucru pt Licenta\\Licenta\\LicentaPharmastock\\LicentaPharmastock\\wwwroot\\js\\site.js",

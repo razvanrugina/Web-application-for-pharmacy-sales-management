@@ -1,6 +1,11 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\building.svg
+wwwroot\images\graph.svg
 wwwroot\images\logo.svg
+wwwroot\images\logo-green.svg
+wwwroot\images\notepad.svg
+wwwroot\images\people.svg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

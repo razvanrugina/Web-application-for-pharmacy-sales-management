@@ -1,12 +1,32 @@
 ﻿@model IEnumerable<LicentaPharmastock.Models.Product>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Products";
+    bool isManager = User.IsInRole("Manager");
 }
 
-<p>
-    <a asp-action="Create" class="custom-btn">Add new product</a>
-</p>
+<h1 class="text-center mt-5">PRODUCTS</h1>
+
+@if (isManager)
+{
+    <div class="inventory-summary alert alert-success">
+        <h4>Inventory Value by Location</h4>
+        <ul>
+            @foreach (dynamic g in ViewBag.InventoryByLocation)
+            {
+                <li>@g.LocationName: @String.Format("{0:C}", g.TotalValue)</li>
+            }
+        </ul>
+        <strong>Total: @String.Format("{0:C}", (decimal)ViewBag.InventoryTotal)</strong>
+    </div>
+}
+else
+{
+    <p>
+        <a asp-action="Create" class="custom-btn">Add new product</a>
+    </p>
+}
+
 <table class="table table-bordered"
        data-toggle="table"
        data-search="true"
@@ -15,48 +35,35 @@
        data-sortable="true">
     <thead>
         <tr>
-            <th data-sortable="true">
-                @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th data-sortable="true">
-                @Html.DisplayNameFor(model => model.Type)
-            </th>
-            <th data-sortable="true">
-                @Html.DisplayNameFor(model => model.Brand)
-            </th>
-            <th data-sortable="true">
-                @Html.DisplayNameFor(model => model.price)
-            </th>
-            <th data-sortable="true">
-                @Html.DisplayNameFor(model => model.quantity)
-            </th>
+            <th data-sortable="true">Name ↓</th>
+            <th data-sortable="true">Type ↓</th>
+            <th data-sortable="true">Brand ↓</th>
+            <th data-sortable="true">Units/Package ↓</th>
+            <th data-sortable="true">Expiration Date ↓</th>
+            <th data-sortable="true">Package Price ↓</th>
+            <th data-sortable="true">Full Packages ↓</th>
+            <th data-sortable="true">Loose Units ↓</th>
             <th></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-            <tr data-toggle="false">
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Type)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Brand.name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.price)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.quantity)
-            </td>
-            <td>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Type</td>
+                <td>@item.Brand?.name</td>
+                <td>@item.UnitsPerPackage</td>
+                <td>@item.ExpirationDate.ToString("dd-MM-yyyy")</td>
+                <td>@item.PackagePrice.ToString("C")</td>
+                <td>@item.PackageCount</td>
+                <td>@item.LooseUnitCount</td>
+                <td>
                     <a asp-action="Edit" asp-route-id="@item.Id" class="custom-btn-small">Edit</a>
                     <a asp-action="Details" asp-route-id="@item.Id" class="custom-btn-small">Details</a>
-            </td>
-        </tr>
-}
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
 
